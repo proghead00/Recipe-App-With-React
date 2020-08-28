@@ -5,6 +5,7 @@
 
 ## [Recipe Search API ( free/ limited version is used )](https://developer.edamam.com/edamam-recipe-api)
 
+![screenshot](https://github.com/proghead00/Recipe-App-With-React/blob/master/2020-08-28%20(5).png?raw=true)
 
 ## How To Install And Use:
 
