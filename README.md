@@ -16,3 +16,5 @@
 
 ## Dependency:
 [Install Node](https://node.org/)
+<br>
+Note: Since I used a free and limited API, thus whenever the limit crosses, it'll stop fetching data for some minutes. If it happens with you, wait for a while.
