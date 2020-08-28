@@ -5,8 +5,6 @@
 ## How To Install And Use:
 
 1. Download the code
-<br>
 2. Open terminal in the project folder
-<br>
 3. Run
 <code> npm start </code>
