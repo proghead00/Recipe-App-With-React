@@ -1,6 +1,6 @@
 # Recipe App made with React.JS 🍲
 
-## [See it live )](https://proghead00.github.io/Recipe-App-With-React/)
+## [See it live](https://proghead00.github.io/Recipe-App-With-React/)
 
 
 ## [Recipe Search API ( free/ limited version is used )](https://developer.edamam.com/edamam-recipe-api)
@@ -15,4 +15,4 @@
 <br>
 
 ## Dependency:
-[Instll Node)](https://node.org/)
+[Install Node](https://node.org/)
