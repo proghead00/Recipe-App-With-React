@@ -1,5 +1,7 @@
 # Recipe App made with React.JS 🍲
 
+![screenshot](https://user-images.githubusercontent.com/55017730/91589841-0952f380-e978-11ea-8996-cd34ea821cd5.png)
+
 ## [See it live](https://proghead00.github.io/Recipe-App-With-React/)
 
 
