@@ -1,6 +1,6 @@
 # Recipe App made with React.JS 🍲
 
-## [Recipe Search API ( free/ limited version is used) ](https://developer.edamam.com/edamam-recipe-api)
+## [Recipe Search API ( free/ limited version is used )](https://developer.edamam.com/edamam-recipe-api)
 
 
 ## How To Install And Use:
