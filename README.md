@@ -11,7 +11,7 @@
 
 ## How To Install And Use:
 
-1. Download the code
+1. Download/Clone the repository
 2. Open terminal in the project folder
 3. Run
 <code> npm start </code>
